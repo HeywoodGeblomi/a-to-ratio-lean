@@ -1,1 +1,6 @@
-$file:/workspace/publish_staging/a-to-ratio-lean/lake-manifest.json
+{"version": "1.3.0",
+ "packagesDir": ".lake/packages",
+ "packages": [],
+ "name": "aToRatio",
+ "lakeDir": ".lake",
+ "fixedToolchain": false}

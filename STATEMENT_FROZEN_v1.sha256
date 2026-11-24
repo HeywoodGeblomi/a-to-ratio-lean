@@ -1,1 +1,3 @@
-$file:/workspace/publish_staging/a-to-ratio-lean/STATEMENT_FROZEN_v1.sha256
+900e652d7ded15b1176063b79ba50c23c542792a29233e0f211991d0522974b0  Statement.lean
+b800a309810bfeb303b5bc96bee55259fb978f9931708ff06876ff67b059435e  gen_matrix.py
+762921656f03ef2cd968146cbc234a02a2eb38bb1c499994a244e63cf3b93eee  gen_output.txt

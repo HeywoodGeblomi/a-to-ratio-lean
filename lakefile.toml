@@ -1,1 +1,8 @@
-$file:/workspace/publish_staging/a-to-ratio-lean/lakefile.toml
+name = "aToRatio"
+defaultTargets = ["Statement"]
+
+[[lean_lib]]
+name = "Statement"
+
+[[lean_lib]]
+name = "Proof"

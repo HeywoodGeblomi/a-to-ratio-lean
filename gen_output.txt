@@ -1,1 +1,2 @@
-$file:/workspace/publish_staging/a-to-ratio-lean/gen_output.txt
+def M : IMat := [[-15, 0, -2, 0], [0, 1, 0, -3], [8, 0, 1, 0], [0, 2, 0, -5]]
+def A : IMat := [[31, 10], [65, 21]]

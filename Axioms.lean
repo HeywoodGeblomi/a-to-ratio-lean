@@ -1,1 +1,3 @@
-$file:/workspace/publish_staging/a-to-ratio-lean/Axioms.lean
+import Proof
+#print axioms ToyGeodesic.toyTwoTorus_thisGeodesic_growthTwoToOne
+#print axioms ToyGeodesic.toyTwoTorus_thisGeodesic_aTie

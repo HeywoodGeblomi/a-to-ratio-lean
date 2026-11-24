@@ -1,1 +1,2 @@
-$file:/workspace/publish_staging/a-to-ratio-lean/axioms_output.log
+'ToyGeodesic.toyTwoTorus_thisGeodesic_growthTwoToOne' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ToyGeodesic.toyTwoTorus_thisGeodesic_aTie' depends on axioms: [propext, Classical.choice, Quot.sound]
